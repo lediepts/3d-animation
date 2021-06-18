@@ -12,12 +12,6 @@ body {
   max-height: 1024px;
 }
 
-audio {
-  max-width: 300px;
-  max-height: 30px;
-  vertical-align: middle;
-}
-
 #container {
   width: 100%;
   height: inherit;
@@ -293,16 +287,6 @@ audio {
 .panel {
   margin: 5px 10px;
   padding: 10px 5px;
-}
-
-.player {
-  /* float: left; */
-  height: 320px;
-  width: 240px;
-  left: 15px;
-  top: 15px;
-  position: absolute;
-  z-index: 1;
 }
 
 .audio {
